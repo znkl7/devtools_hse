@@ -1,3 +1,7 @@
-print("hello, 123")
+def greet():
+    print("hello")
+    print("again")
 
-print("hello, 33333")
+def leftover():
+    print("x")
+    
